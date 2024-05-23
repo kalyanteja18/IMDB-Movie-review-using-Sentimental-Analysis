@@ -1,1 +1,2 @@
 # IMDB-Movie-review-using-Sentimental-Analysis
+Sentiment analysis is the task of processing the given textual information to analyse the emotions in it. In simple words we need to analyse whether the textual information talks positive or negative feedback about the product or topic. It is also popularly known as opinion mining. It requires the knowledge of natural language processing, artificial intelligence and machine learning
